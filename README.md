@@ -20,7 +20,7 @@ To use the Task Manager, follow these steps:
 2. Navigate to the project directory:
    cd TaskManager
 3. Compile the C program:
-   gcc task_manager.c -o task_manager
+   gcc Taskmanager.c -o Taskmanager
 4. Run the compiled program:
-   ./task_manager
+   ./Taskmanager
 
